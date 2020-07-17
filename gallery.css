@@ -92,3 +92,14 @@ footer address {
 footer address a{
   color: black;
 }
+
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .works{
+    width: 85%;
+    height:calc(20% + 30px);
+  }
+  
+  
+}
