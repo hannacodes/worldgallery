@@ -119,6 +119,8 @@ footer address a{
     width: 85%;
     height:calc(20% + 30px);
   }
-  
+  .topnav{
+    display:none;
+  }
   
 }
