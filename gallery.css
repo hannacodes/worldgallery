@@ -18,6 +18,11 @@ body {
   background-color:rgb(177, 222, 224);
 }
 
+::selection {
+  color:#45c7ff;
+  background: #ffffff;
+}
+
 
 header{
   padding-top:2%;
@@ -33,6 +38,15 @@ header{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.topnav input[type=search], .topnav button {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
 }
 
 h2{
