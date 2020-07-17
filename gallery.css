@@ -62,11 +62,16 @@ h2{
 .works{
   float:left;
   margin-top: 2%;
+  text-align:center;
   padding:2px 25px 25px 25px;
   background-color:rgba(255, 255, 255, 0.5);
   margin-left:2%;
   width: 27%;
   height:410px;
+}
+
+.works p{
+  padding:40px 40px 40px;
 }
 
 
